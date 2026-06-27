@@ -23,10 +23,10 @@ La TCU no es solo una teoría sobre mercados o sistemas complejos. Es un **marco
 tcu-unified-coherence-theory/
 ├── STATE/                    # Estado canónico actual del proyecto
 ├── CORE/                     # Núcleo matemático + evidencia empírica validada
+├── SKILLS/                   # Cómo aplicar TCU al ecosistema de agentes soberanos
 ├── EXPLORATIONS/             # Aplicaciones especulativas y horizonte filosófico (Nivel 5-6)
 ├── ARCHIVE/                  # Versiones falsadas o superadas (histórico honesto)
 ├── PAPERS/                   # Documentos científicos listos para revisión
-├── SKILLS/                   # Cómo aplicar TCU al ecosistema de agentes soberanos
 └── docs/                     # Diagramas, guías y protocolos
 ```
 
@@ -46,9 +46,11 @@ Este repositorio no solo contiene la teoría. Contiene el **código fuente conce
 
 ---
 
-## Estado Actual
+## Estado Actual del Ecosistema Soberano
 
-Ver `STATE/tuc-current-state.md` para el estado orquestado completo del proyecto.
+Ver `MASTER_SOVEREIGN_ECOSYSTEM_ARCHITECTURE.md` para la arquitectura completa del ecosistema de skills y agentes.
+
+El ecosistema está en proceso activo de organización y mejora estructural, guiado por el skill `arquitecto-sistema`.
 
 ---
 
