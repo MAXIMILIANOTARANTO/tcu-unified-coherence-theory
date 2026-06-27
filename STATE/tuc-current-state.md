@@ -44,7 +44,7 @@ El proyecto TCU ha atravesado una **maduración epistemológica significativa** 
 ### 3.1 Ecuación Maestra (consolidada)
 
 ```
-□C + μ^{2}C + λ|C|^{2}C + κ·I[C] = S(x,t)
+□C + μ²C + λ|C|²C + κ · I[C] = S(x,t)
 ```
 
 Donde el operador de memoria explícito es:
@@ -69,9 +69,9 @@ Este formalismo es internamente consistente y pertenece a la familia de ecuacion
 ### 3.3 Taxonomía de Crisis (confirmada)
 
 - **SHOCK (exógeno):** S domina. τ_m disminuye antes del evento. Recuperación más rápida.
-- **MACRO (endógeno):** κ·I[C] domina. τ_m aumenta antes del evento (acumulación de memoria). Recuperación más lenta y compleja.
+- **MACRO (endógeno):** κ · I[C] domina. τ_m aumenta antes del evento (acumulación de memoria). Recuperación más lenta y compleja.
 
-Esta taxonomía tiene valor predictivo y diagnóstico real.
+Esta taxonomía es uno de los hallazgos más robustos del proyecto (p = 0.007).
 
 ---
 
