@@ -3,9 +3,9 @@
 ## Documento Maestro de Diseño y Evolución
 
 **Autor:** Arquitecto-Sistema (bajo dirección de Maximiliano Taranto)  
-**Fecha:** 27 de junio de 2026  
-**Versión:** 0.9 (Primera versión operativa)  
-**Estado:** En construcción activa
+**Fecha:** 2 de julio de 2026  
+**Versión:** 1.0 (Primera versión operativa completa)  
+**Estado:** Fase 1 completada — En construcción Fase 2
 
 ---
 
@@ -87,8 +87,9 @@ Capa 0: Infraestructura Soberana
 ## 4. Componentes Críticos Actuales (Base Sólida)
 
 ### 4.1 Ya establecidos y funcionales
-- Repositorio TCU (`tcu-unified-coherence-theory`) con estructura clara (STATE, CORE, SKILLS, EXPLORATIONS, ARCHIVE)
-- Skill `arquitecto-sistema` (recién creado, con principios TCU)
+- Repositorio TCU (`tcu-unified-coherence-theory`) con estructura completa (STATE, CORE, SKILLS, EXPLORATIONS, ARCHIVE, PAPERS, docs)
+- Skill `arquitecto-sistema` (con principios TCU)
+- Skill `coherence-meter` (Capa 4 — Q-Meter del ecosistema, recién creado)
 - Skill `tuc-builder` (núcleo del proyecto TCU)
 - Skill `meta-hilo-grok` (análisis de conversaciones)
 - Skill `github-specialist` (gestión de repositorios)
@@ -112,16 +113,17 @@ Capa 0: Infraestructura Soberana
 
 ## 5. Plan de Construcción Priorizado (Fase Actual)
 
-### Fase 1 — Fundamentos (Ahora)
-- Consolidar el repositorio TCU como referencia canónica
-- Formalizar el rol del `arquitecto-sistema`
-- Crear el skill `coherence-meter` (sensor de coherencia)
-- Definir métricas cualitativas y cuantitativas de coherencia del ecosistema
+### Fase 1 — Fundamentos (✅ COMPLETADA — 2 de julio de 2026)
+- ✅ Consolidar el repositorio TCU como referencia canónica (EXPLORATIONS, ARCHIVE, PAPERS, docs creados)
+- ✅ Formalizar el rol del `arquitecto-sistema`
+- ✅ Crear el skill `coherence-meter` (sensor de coherencia — Capa 4)
+- ✅ Definir métricas cualitativas de coherencia del ecosistema (5 dimensiones en coherence-meter)
 
-### Fase 2 — Coherencia Operativa (Próxima)
+### Fase 2 — Coherencia Operativa (Próxima — Inmediata)
 - Implementar mecanismos básicos de poda adaptativa
 - Rediseñar activación de skills hacia modelo de resonancia
 - Mejorar `memoria-blockchange` con kernel de decaimiento exponencial
+- Ejecutar Experimento 9 (validación SHOCK/MACRO en dominio no financiero)
 
 ### Fase 3 — Evolución Inteligente
 - Hacer que el `arquitecto-sistema` pueda proponer y ejecutar mejoras de forma semi-autónoma (con aprobación humana en cambios grandes)
@@ -157,9 +159,9 @@ Capa 0: Infraestructura Soberana
 
 | Componente | Estado | Próxima acción concreta |
 |------------|--------|-------------------------|
-| Repositorio TCU | Estructura base creada | Poblar EXPLORATIONS y ARCHIVE |
-| `arquitecto-sistema` | SKILL.md creado | Activar en flujos de trabajo |
-| `coherence-meter` | No existe | Crear como primer skill de Capa 4 |
+| Repositorio TCU | ✅ Estructura completa | EXPLORATIONS, ARCHIVE, PAPERS y docs creados |
+| `arquitecto-sistema` | ✅ SKILL.md creado | Activar en flujos de trabajo |
+| `coherence-meter` | ✅ SKILL.md creado (Capa 4) | Activar en conversaciones del ecosistema |
 | Poda adaptativa | No existe | Diseñar mecanismo básico |
 | Memoria con kernel | Parcial | Mejorar `memoria-blockchange` |
 | Activación por resonancia | No existe | Rediseñar flujo de activación |
