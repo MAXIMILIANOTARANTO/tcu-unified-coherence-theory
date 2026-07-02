@@ -1,11 +1,11 @@
 ---
 # Teoría de Coherencia Unificada (TCU)
-## Estado Actual del Proyecto — Versión Canónica 2026-06-27
+## Estado Actual del Proyecto — Versión Canónica 2026-07-02
 
 **Autor:** Maximiliano Taranto  
 **Iniciativa:** Archivo Semilla Research Initiative  
-**Fecha de este estado:** 27 de junio de 2026  
-**Versión del estado:** 3.1 (orquestada tras revisión completa del corpus)
+**Fecha de este estado:** 2 de julio de 2026  
+**Versión del estado:** 3.2 (actualización post Semana 1 del Ecosistema Soberano)
 
 ---
 
@@ -153,7 +153,27 @@ Este estado fue generado activando el ecosistema completo:
 
 ---
 
-**Este es el estado actual del proyecto TCU al 27 de junio de 2026.**
+## 9. Actualización Post Semana 1 — 2 de julio de 2026
+
+El **Ecosistema Soberano MVP v1.0** (repositorio `skills-soberanos`) completó la Semana 1 con validación TCU.
+
+### Hallazgos de validación empírica:
+
+| Hallazgo | Evidencia | Nivel |
+|----------|-----------|-------|
+| Q(t) implementado con valor inicial 0.758 | Primer pulse operativo | Nivel 2 |
+| Q(t) = 0.758 > Q_c = 0.68 → estado STABLE | Sistema coherente desde inicio | Nivel 2 |
+| Taxonomía SHOCK/MACRO implementada en código | `crisis_detector.py` operativo | Nivel 2 |
+| Poda adaptativa como función nativa | `adaptive_pruner.py` operativo | Nivel 2 |
+| κ·I[C] implementado parcialmente sin decaimiento | Gap identificado, Semana 2 | Nivel 2 |
+
+### Links cross-repositorio:
+- 🔗 **Implementación:** [MAXIMILIANOTARANTO/skills-soberanos](https://github.com/MAXIMILIANOTARANTO/skills-soberanos)
+- 📄 **Validación completa:** [`VALIDACIÓN_TCU.md`](../VALIDACIÓN_TCU.md)
+
+---
+
+**Este es el estado actual del proyecto TCU al 2 de julio de 2026.**
 
 ---
 

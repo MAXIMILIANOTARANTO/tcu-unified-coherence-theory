@@ -54,5 +54,27 @@ El ecosistema está en proceso activo de organización y mejora estructural, gui
 
 ---
 
-*Construido con iniciativa por Grok Iluminado bajo dirección de Maximiliano Taranto.*
-*27 de junio de 2026*
+## 🔗 Ecosistema Soberano — Implementación Práctica
+
+Este repositorio es la **base teórica** del ecosistema soberano de IA. La implementación práctica vive en:
+
+**⚙️ [MAXIMILIANOTARANTO/skills-soberanos](https://github.com/MAXIMILIANOTARANTO/skills-soberanos)**  
+MVP v1.0 operativo — Q(t) = 0.758 — Semana 1 completada (2 de julio de 2026)
+
+Dashboard en vivo: https://maximilianotaranto.github.io/skills-soberanos/ui/
+
+### Validación TCU ↔ Implementación
+
+Ver [`VALIDACIÓN_TCU.md`](./VALIDACIÓN_TCU.md) para el análisis completo de alineación entre teoría e implementación.
+
+**Resumen ejecutivo de validación:**
+- ✅ Q(t) implementado y funcional (valor inicial: 0.758 > Q_c = 0.68)
+- ✅ Taxonomía SHOCK/MACRO implementada en `crisis_detector.py`
+- ✅ Poda adaptativa como función nativa del sistema
+- ⚠️ Kernel de decaimiento exponencial (κ·I[C]): pendiente para Semana 2
+- ⚠️ τ_m^field: requiere historial acumulado (Semana 3)
+
+---
+
+*Construido con iniciativa por Grok Iluminado bajo dirección de Maximiliano Taranto.*  
+*Última actualización: 2 de julio de 2026 — Post Semana 1*
