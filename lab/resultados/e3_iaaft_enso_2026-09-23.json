@@ -1,0 +1,15 @@
+{
+  "dominio": "ENSO_NINO34_oficial",
+  "W": 24,
+  "n_train": 324,
+  "n_test": 444,
+  "auc_test_real": 0.472,
+  "e3_perm_p95": 0.528,
+  "e3_perm_delta": -0.056,
+  "e3_perm": "FALLA",
+  "e3_iaaft_n": 40,
+  "e3_iaaft_p95": 0.6289,
+  "e3_iaaft_delta": -0.1569,
+  "e3_iaaft": "FALLA",
+  "iaaft": "Schreiber-Schmitz por columna sobre nina3,nina4,soi; target ONI>=0.5 intacto"
+}
